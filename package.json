@@ -1,0 +1,27 @@
+{
+  "name": "movie-trailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalorF/movie-trailer.git"
+  },
+  "keywords": [
+    "movie",
+    "trailer"
+  ],
+  "author": "kalor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KalorF/movie-trailer/issues"
+  },
+  "homepage": "https://github.com/KalorF/movie-trailer#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
